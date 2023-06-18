@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: C and maybe machine learning
 - 💬 Ask me about: Linux
 - 📫 How to reach me: reli_S / khaiminh@relims.one
-- 😄 Pronouns: he/him or idiot
+- 😄 Pronouns: idiot
 - ⚡ Fun fact: I am an idiot
