@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: C <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with: C and maybe machine learning
 - 💬 Ask me about: Linux
-- 📫 How to reach me: khaiminh1209#4137 / khaiminh@relims.one
+- 📫 How to reach me: reli_S / khaiminh@relims.one
 - 😄 Pronouns: he/him or idiot
 - ⚡ Fun fact: I am an idiot
